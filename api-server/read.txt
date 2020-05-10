@@ -1,0 +1,3 @@
+First Start Your Terminal and 
+type : node index.js
+It'll start ........ :)
